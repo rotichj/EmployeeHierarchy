@@ -1,0 +1,12 @@
+C:\Users\JROTICH\source\repos\EmployeeHandlerLibrary\EmployeeHandlerLibrary\bin\Debug\net5.0\EmployeeHandlerLibrary.deps.json
+C:\Users\JROTICH\source\repos\EmployeeHandlerLibrary\EmployeeHandlerLibrary\bin\Debug\net5.0\EmployeeHandlerLibrary.dll
+C:\Users\JROTICH\source\repos\EmployeeHandlerLibrary\EmployeeHandlerLibrary\bin\Debug\net5.0\ref\EmployeeHandlerLibrary.dll
+C:\Users\JROTICH\source\repos\EmployeeHandlerLibrary\EmployeeHandlerLibrary\bin\Debug\net5.0\EmployeeHandlerLibrary.pdb
+C:\Users\JROTICH\source\repos\EmployeeHandlerLibrary\EmployeeHandlerLibrary\obj\Debug\net5.0\EmployeeHandlerLibrary.csproj.AssemblyReference.cache
+C:\Users\JROTICH\source\repos\EmployeeHandlerLibrary\EmployeeHandlerLibrary\obj\Debug\net5.0\EmployeeHandlerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JROTICH\source\repos\EmployeeHandlerLibrary\EmployeeHandlerLibrary\obj\Debug\net5.0\EmployeeHandlerLibrary.AssemblyInfoInputs.cache
+C:\Users\JROTICH\source\repos\EmployeeHandlerLibrary\EmployeeHandlerLibrary\obj\Debug\net5.0\EmployeeHandlerLibrary.AssemblyInfo.cs
+C:\Users\JROTICH\source\repos\EmployeeHandlerLibrary\EmployeeHandlerLibrary\obj\Debug\net5.0\EmployeeHandlerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JROTICH\source\repos\EmployeeHandlerLibrary\EmployeeHandlerLibrary\obj\Debug\net5.0\EmployeeHandlerLibrary.dll
+C:\Users\JROTICH\source\repos\EmployeeHandlerLibrary\EmployeeHandlerLibrary\obj\Debug\net5.0\ref\EmployeeHandlerLibrary.dll
+C:\Users\JROTICH\source\repos\EmployeeHandlerLibrary\EmployeeHandlerLibrary\obj\Debug\net5.0\EmployeeHandlerLibrary.pdb
